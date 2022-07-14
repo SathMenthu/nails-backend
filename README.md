@@ -1,4 +1,5 @@
-# Backend for Nails Application: REST API app with HttpOnly Auth via JWT Token
+# Backend for Nails Application:
+REST API app with HttpOnly Auth via JWT Token
 ## Gives the possibility for:
 - User: registration, login, authorization, authentication 
 - Tariff: adding, editing, deleting new items in the price list (tariff is also generate in frontend from database)
