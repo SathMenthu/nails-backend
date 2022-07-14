@@ -1,4 +1,4 @@
-# Backend for Nails Application:
+# Backend for Nails Application
 REST API app with HttpOnly Auth via JWT Token
 ## Gives the possibility for:
 - User: registration, login, authorization, authentication 
